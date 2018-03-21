@@ -1,1 +1,0 @@
-geth --identity "mydev" --rpc --rpccorsdomain "*" --datadir "E:\Ethereum\private" --rpcapi "db.eth.net.web3.admin.miner.personal.rpc" --networkid 100 init "./CustomGenesis.json"
