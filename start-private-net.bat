@@ -1,0 +1,1 @@
+geth --datadir "E:\Ethereum\private" --identity "mydev" --rpc --rpcapi "db.eth.net.web3.admin.miner.personal.rpc" --rpccorsdomain "*" --networkid 100 console
